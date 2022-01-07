@@ -1,2 +1,4 @@
 # eggtimer
-Egg timer application (within training)
+Egg timer application (within training).
+
+Repository connection test.
